@@ -1,4 +1,4 @@
-This is the description of a coding assignment that I completed for a class. The code cannot be published publicly but I can share it upon request. 
+## This is the description of a coding assignment on Markov models that I completed for a class. The code cannot be published publicly but I can share it upon request. 
 
 # CAPP 30122 - Programming Assignment #1 - Markovian Candidate
 
